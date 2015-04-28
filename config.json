@@ -1,0 +1,7 @@
+{
+    "name": "Grunt 中文版",
+    "introduction": "Grunt是一个自动化的项目构建工具。 如果你需要重复的执行像压缩， 编译， 单元测试， 代码检查以及打包发布的任务。 那么你可以使用Grunt来处理这些任务， 你所需要做的只是配置好Grunt， 这样能很大程度的简化你的工作。",
+    "title": "Grunt 中文版- 极客学院 Wiki",
+    "keywords": "Grunt 中文版,Grunt.js,Grunt,web前端,前端,HTML,CSS,JavaScript,js,构建,压缩,合并,发布",
+    "description": "Grunt是一个自动化的项目构建工具。 如果你需要重复的执行像压缩， 编译， 单元测试， 代码检查以及打包发布的任务。 那么你可以使用Grunt来处理这些任务， 你所需要做的只是配置好Grunt， 这样能很大程度的简化你的工作。"
+}
